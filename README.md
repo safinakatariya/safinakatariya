@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SafinaKatariya](https://github.com/SafinaKatariya)
-
-- 💬 Ask me about **React.js, Node.js, Express.js, MySQL, Sequelize ORM, REST APIs**
+- 💬 Ask me about **PHP, CodeIgniter, JavaScript, React.js, Node.js, Express.js, MySQL, Sequelize ORM, REST APIs, Git, GitHub, BitBucket**
 
 - 📫 How to reach me **safinakatariya@gmail.com**
 
