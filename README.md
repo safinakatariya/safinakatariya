@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safina M.Husen Katariya</h1>
 <h3 align="center">Full-Stack Developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safinakatariya" alt="safinakatariya" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
